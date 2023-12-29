@@ -1,0 +1,24 @@
+﻿  model.cpp
+D:\DownLoad\LearnOpenGL\Glitter\Vendor\glm\glm\detail\type_quat.hpp(48,30): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+  (编译源文件“../Glitter/Headers/model.cpp”)
+  D:\DownLoad\LearnOpenGL\Glitter\Vendor\glm\glm\detail\type_quat.hpp(48,30):
+  模板实例化上下文(最早的实例化上下文)为
+  	D:\DownLoad\LearnOpenGL\Glitter\Vendor\glm\glm\detail\type_quat.hpp(140,3):
+  	查看对正在编译的 类 模板 实例化“glm::qua<T,Q>”的引用
+  
+D:\DownLoad\LearnOpenGL\Glitter\Headers\shader_s.h(50,36): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“../Glitter/Headers/model.cpp”)
+  
+D:\DownLoad\LearnOpenGL\Glitter\Headers\shader_s.h(66,35): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“../Glitter/Headers/model.cpp”)
+  
+D:\DownLoad\LearnOpenGL\Glitter\Headers\shader_s.h(122,36): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“../Glitter/Headers/model.cpp”)
+  
+D:\DownLoad\LearnOpenGL\Glitter\Headers\shader_s.h(141,35): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“../Glitter/Headers/model.cpp”)
+  
+D:\Code\Glitter\Glitter\Headers\model.cpp(3,78): warning C4100: “gamma”: 未引用的形参
+D:\Code\Glitter\Glitter\Headers\model.cpp(24): warning C4701: 使用了可能未初始化的局部变量“format”
+  glad.c
+  Glitter.vcxproj -> D:\DownLoad\LearnOpenGL\Build\Glitter\Debug\Glitter.exe
